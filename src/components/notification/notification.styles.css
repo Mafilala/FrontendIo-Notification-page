@@ -1,0 +1,63 @@
+.notification {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  width: 100%;
+  border-radius: 1rem;
+}
+.image-container {
+  width: 50px;
+}
+.name {
+  font-weight: 800;
+  color: var(--Very-dark-blue);
+  font-size: 1.1rem;
+}
+.name:hover {
+  color: var(--Blue);
+  cursor: pointer;
+}
+.receiver-name {
+  color: var(--Dark-grayish-blue);
+  font-weight: 800;
+}
+
+.middle {
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.message {
+  border: 1px solid var(--Light-grayish-blue-1);
+  border-radius: 0.5rem;
+  width: 95%;
+  padding: 20px;
+}
+.message:hover {
+  background-color: var(--Light-grayish-blue-1);
+  cursor: pointer;
+}
+.image_and_content {
+  display: grid;
+  grid-template-columns: 1fr 12fr;
+}
+.entity {
+  color: var(--Blue);
+  font-weight: 800;
+}
+.receiver-image {
+  margin-right: 2.5rem;
+}
+.newN {
+  background-color: var(--Light-grayish-blue-1);
+}
+.dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: red;
+  margin-left: 1ch;
+}
