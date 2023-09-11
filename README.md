@@ -46,7 +46,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Mafilala/FrontendIo-Notification-page)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://playful-torte-d131dd.netlify.app/)
 
 ## My process
 
