@@ -3,13 +3,12 @@ article {
   background-color: white;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-between;
   align-items: flex-start;
   gap: 10px;
   padding: 30px;
   border-radius: 1rem;
   box-shadow: 0 0 2rem var(--Light-grayish-blue-1);
-  overflow-y: auto;
 }
 header {
   width: 100%;
