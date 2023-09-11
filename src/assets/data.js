@@ -1,7 +1,7 @@
 export const notifications = [
   {
     doer: {
-      name: "Mark Webber",
+      name: "Mark Webberr",
       imgUrl: "../../src/assets/images/avatar-mark-webber.webp",
     },
     action: "reacted to your recent post",
