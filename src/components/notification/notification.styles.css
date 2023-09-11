@@ -6,12 +6,13 @@
   border-radius: 1rem;
 }
 .image-container {
-  width: 50px;
+  width: 40px;
+  height: 40px;
 }
 .name {
   font-weight: 800;
   color: var(--Very-dark-blue);
-  font-size: 1.1rem;
+  font-size: 16px;
 }
 .name:hover {
   color: var(--Blue);
@@ -33,7 +34,7 @@
   border: 1px solid var(--Light-grayish-blue-1);
   border-radius: 0.5rem;
   width: 95%;
-  padding: 20px;
+  padding: 15px;
 }
 .message:hover {
   background-color: var(--Light-grayish-blue-1);
@@ -59,5 +60,9 @@
   height: 10px;
   border-radius: 50%;
   background-color: red;
-  margin-left: 1ch;
+  margin-left: 0.5ch;
+}
+.notification p {
+  line-height: 1.2;
+  text-wrap: pretty;
 }

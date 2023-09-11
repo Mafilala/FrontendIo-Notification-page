@@ -32,13 +32,12 @@ body {
   height: 100vh;
 }
 body {
-  line-height: 1.5;
+  line-height: 1.2;
   -webkit-font-smoothing: antialiased;
   display: grid;
   place-content: center;
   background-color: var(--Very-light-grayish-blue);
   font-family: "Plus Jakarta Sans", sans-serif;
-  margin: 30px auto;
 }
 /*
   5. Improve media defaults
