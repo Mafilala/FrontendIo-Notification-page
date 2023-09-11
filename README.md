@@ -45,7 +45,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
+- Solution URL: [Github](https://github.com/Mafilala/FrontendIo-Notification-page)
 - Live Site URL: [Netlify](https://your-live-site-url.com)
 
 ## My process
