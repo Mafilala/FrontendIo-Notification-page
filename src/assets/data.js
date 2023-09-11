@@ -2,7 +2,7 @@ export const notifications = [
   {
     doer: {
       name: "Mak Webber",
-      imgUrl: "./src/assets/images/avatar-mark-webber.webp",
+      imgUrl: "./images/avatar-mark-webber.webp",
     },
     action: "reacted to your recent post",
     time: "1m ago",
@@ -16,7 +16,7 @@ export const notifications = [
   {
     doer: {
       name: "Angela Gray",
-      imgUrl: "src/assets/images/avatar-angela-gray.webp",
+      imgUrl: "./images/avatar-angela-gray.webp",
     },
     action: "followed you",
     time: "5m ago",
@@ -31,7 +31,7 @@ export const notifications = [
   {
     doer: {
       name: "Jacob Thompson",
-      imgUrl: "src/assets/images/avatar-jacob-thompson.webp",
+      imgUrl: "./images/avatar-jacob-thompson.webp",
     },
     action: "has joined your group",
     time: "1 day ago",
@@ -46,7 +46,7 @@ export const notifications = [
   {
     doer: {
       name: "Rizky Hasanuddin",
-      imgUrl: "src/assets/images/avatar-rizky-hasanuddin.webp",
+      imgUrl: "./images/avatar-rizky-hasanuddin.webp",
     },
     action: "sent you a private message",
     time: "5 days ago",
@@ -61,13 +61,13 @@ export const notifications = [
   {
     doer: {
       name: "Kimberly Smith",
-      imgUrl: "src/assets/images/avatar-kimberly-smith.webp",
+      imgUrl: "./images/avatar-kimberly-smith.webp",
     },
     action: "commented on your picture",
     time: "1 week ago",
     receiver: {
       name: "Chess Club",
-      imgUrl: "src/assets/images/image-chess.webp",
+      imgUrl: "./images/image-chess.webp",
       message: "",
       isEntity: true,
     },
@@ -76,7 +76,7 @@ export const notifications = [
   {
     doer: {
       name: "Nathan Peterson",
-      imgUrl: "src/assets/images/avatar-nathan-peterson.webp",
+      imgUrl: "./images/avatar-nathan-peterson.webp",
     },
     action: "reacted to your recent post ",
     time: "2 weeks ago",
@@ -91,7 +91,7 @@ export const notifications = [
   {
     doer: {
       name: "Anna Kim",
-      imgUrl: "src/assets/images/avatar-anna-kim.webp",
+      imgUrl: "./images/avatar-anna-kim.webp",
     },
     action: "left the group",
     time: "2 weeks ago",
